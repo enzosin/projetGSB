@@ -1,0 +1,103 @@
+﻿<Window x:Class="GestionMedicament.VueEnzo.ModifMedicamentEnzo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GestionMedicament.VueEnzo"
+        mc:Ignorable="d"
+        Title="ModifMedicamentEnzo" Height="450" Width="800" Loaded="Window_Loaded"
+        
+        ResizeMode="NoResize"
+        Background="Transparent"
+        
+        >
+
+    <Border Background="#272537"
+            CornerRadius="20">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"></ColumnDefinition>
+                <ColumnDefinition Width="250"></ColumnDefinition>
+                <ColumnDefinition Width="250"></ColumnDefinition>
+                <ColumnDefinition Width="250"></ColumnDefinition>
+
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition Height="20"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="60"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Image Grid.Row="0" Grid.Column="0" Source="../Images/Logo_GSB.png" HorizontalAlignment="Left"></Image>
+
+            <RadioButton
+                   Grid.Column="1"
+                    Content="Gestion Individus"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Padding="10"
+                    Margin="28,10,0,0"
+                    Height="50"
+                    Foreground="White"
+                    FontSize="18"
+                   Click="linkGstIdv_Click"
+                    />
+            <RadioButton
+                    Grid.Column="2"
+                    Content="Gestion Médicaments"
+                    Padding="5"
+                    Margin="35,10,0,0"
+                    Height="50"
+                   Click="linkgstMedoc_Click"
+                    HorizontalAlignment="Left"
+                    Foreground="White"
+                    FontSize="18"
+                    
+               />
+            <RadioButton
+                    Name="Graphiques"
+                    Grid.Column="0"
+                    Content="Graphiques"
+                    Padding="5"
+                    Margin="105,13,0,13"
+                    Click="Graphiques_Click"
+                    HorizontalAlignment="Left"
+                    Foreground="White"
+                    FontSize="18" Width="140"
+                    
+               />
+            <TextBlock Foreground="White" Grid.Row="2" Grid.Column="1" TextAlignment="Center" FontSize="16" HorizontalAlignment="Right" Width="227" Grid.ColumnSpan="3" Margin="0,0,268,0">Modification d'un médicament</TextBlock>
+            <TextBlock Foreground="White" Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="10,10,241,9">Nom Commercial</TextBlock>
+            <WrapPanel Grid.Row="4" Grid.Column="1" >
+                <ComboBox Name="cboFamille" Width="200" Margin="10,10,0,0">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding NomFamille}" Width="200"></TextBlock>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+            </WrapPanel>
+            <TextBlock Foreground="White" Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="10,10,241,9">Famille du médicament</TextBlock>
+            
+            <TextBox x:Name="lstNomCommercial" Grid.Row="4" Grid.Column="0" VerticalAlignment="Center" Margin="10,9,50,9" Height="22"/>
+            <TextBlock Foreground="White" Grid.Row="3" Grid.Column="2" VerticalAlignment="Center" Margin="10,10,94,12" Height="19">Prix échantillon</TextBlock>
+            <TextBox   x:Name="lstPrixEchantillon" Grid.Row="4" Grid.Column="2" VerticalAlignment="Center" Margin="10,10,50,10" Height="21"/>
+            <TextBlock Foreground="White" Grid.Row="5" Grid.Column="0" VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="10,14,241,10">Composition</TextBlock>
+            <TextBox   x:Name="lstComposition"  Grid.Row="6" Grid.Column="0" VerticalAlignment="Top"  Height="51" Margin="10,0,50,0" Grid.RowSpan="2"/>
+            <TextBlock Foreground="White" Grid.Row="5" Grid.Column="1" VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="10,14,241,10">Effet Médicament</TextBlock>
+            <TextBox   x:Name="lstEffetmedicament" Grid.Row="6" VerticalAlignment="Center" Height="50" Margin="10,0,50,0" Grid.Column="1"/>
+            <TextBlock Foreground="White" Grid.Row="5" Grid.Column="2" VerticalAlignment="Center" Margin="10,15,112,10">Contre indication</TextBlock>
+            <TextBox  x:Name="lstContreIndication" Grid.Row="6" VerticalAlignment="Center" Height="50" Margin="10,0,50,0" Grid.Column="2"/>
+            <Button x:Name="btnModifierMedoc" Grid.Column="0" Grid.Row="9" VerticalAlignment="Center" HorizontalAlignment="Center" Height="22" Margin="10,45,154,-6" Width="87" Click="btnModifierMedoc_Click">Modifier</Button>
+            <Button x:Name="btnRetour" Grid.Column="0" Grid.Row="9" VerticalAlignment="Center" Click="btnRetour_Click" HorizontalAlignment="Center"  Margin="144,45,20,-6" Width="87" Height="22">Retour</Button>
+        </Grid>
+    </Border>
+</Window>

@@ -1,0 +1,126 @@
+﻿<Window x:Class="GestionMedicament.VueYanis.Perturbateur"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GestionMedicament.VueYanis"
+        mc:Ignorable="d"
+        Title="Perturbateur" Height="450" Width="800" Loaded="Window_Loaded"
+        
+        ResizeMode="NoResize"
+        Background="Transparent"
+        >
+
+    <Border Background="#272537"
+            CornerRadius="20">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="20"></ColumnDefinition>
+                <ColumnDefinition Width="350"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="350"></ColumnDefinition>
+                <ColumnDefinition Width="20"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition Height="20"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="60"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Image  Grid.Row="0" Grid.Column="1" Source="../Images/Logo_GSB.png"  HorizontalAlignment="Left"></Image>
+
+
+            <RadioButton
+                   Grid.Column="3"
+                    Content="Gestion Médicament"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Padding="10"
+                    Margin="0,10,0,0"
+                    Height="50"
+                    Foreground="White"
+                    FontSize="18"
+                   Click="linkgstMedoc_Click"
+                    />
+            <RadioButton
+                    Grid.Column="1"
+                    Content="Gestion Individus"
+                    Padding="5"
+                    Margin="0,10,320,0"
+                    Height="50"
+                     Click="linkGstIdv_Click"
+                    HorizontalAlignment="Right"
+                    Foreground="White"
+                    FontSize="18" Grid.ColumnSpan="3"
+                    
+               />
+            <RadioButton
+                    Name="Graphiques"
+                    Grid.Column="1"
+                    Content="Graphiques"
+                    Padding="5"
+                    Margin="105,13,0,13"
+                    Click="Graphiques_Click"
+                    HorizontalAlignment="Left"
+                    Foreground="White"
+                    FontSize="18" Width="140"
+                    
+               />
+            <!--<Button x:Name="linkGstIdv" Grid.Row="0" Grid.Column="3" VerticalAlignment="Center" Background="white" BorderBrush="white"
+				   FontSize="16" HorizontalAlignment="Right" Click="linkGstIdv_Click">Gestion Individus</Button>
+        <Button Grid.Row="0" Grid.Column="3" VerticalAlignment="Center" Name="linkgstMedoc" Click="linkgstMedoc_Click"
+                HorizontalAlignment="Left" FontSize="16" Background="white" BorderBrush="white">Gestion Medicaments</Button>-->
+
+            <TextBlock Foreground="White" Grid.Row="1" Grid.Column="1" TextAlignment="Center" FontSize="16" Grid.ColumnSpan="3" Margin="210,9.2,193,0.8" Grid.RowSpan="2">Création Médicament</TextBlock>
+
+            <TextBlock Foreground="White" Grid.Row="2" Grid.Column="1"  FontFamily="Monotype Corsiva" TextAlignment="Center" FontSize="16" Grid.ColumnSpan="3" Margin="295,30.4,109,10.6" Text="Les pertubateurs" Grid.RowSpan="2"/>
+            <ListBox Name="lstMedoc" Grid.Row="3"  Grid.Column="1" Grid.RowSpan="3" BorderBrush="{x:Null}" Margin="0,30.2,0.4,11.2" SelectionChanged="lstMedoc_SelectionChanged">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding IdMedicament}" Width="150"></TextBlock>
+                            <TextBlock Text="{Binding NomMedicament}" Width="100"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+
+
+
+
+            <TextBlock Foreground="White" FontFamily="Monotype Corsiva" Grid.Row="2" TextAlignment="Center" FontSize="16" Margin="-65,30.4,85.4,9.6" Text="Liste des médicaments " Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+            <ListBox Name="lstMedicPertub" Grid.Row="3" Grid.Column="3" BorderBrush="{x:Null}" Grid.RowSpan="3" Margin="0,30.2,0,11.2">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding IdMedicament}" Width="150"></TextBlock>
+                            <TextBlock Text="{Binding NomMedicament}" Width="130"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+
+            <TextBlock Foreground="White" FontFamily="Monotype Corsiva" Grid.Row="5" TextAlignment="Center" FontSize="16" Margin="-65,40.6,85.4,18.6" Text="Les non pertubateurs  " Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+            <ListBox  Name="lstMedocNonPer" Grid.Row="6" Grid.RowSpan="3" BorderBrush="{x:Null}" Margin="0,36.8,0.4,4.6" Grid.Column="1" Height="80.8">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding IdMedicament}" Width="150"></TextBlock>
+                            <TextBlock Text="{Binding NomMedicament}" Width="150"></TextBlock>
+
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <Button x:Name="btnAjouter" Grid.Column="1" Grid.Row="9" VerticalAlignment="Center" HorizontalAlignment="Center" Click="btnAjouter_Click" RenderTransformOrigin="1.216,0.312" Margin="249,10.4,0.4,32.4">Ajouter</Button>
+        </Grid>
+    </Border>
+</Window>

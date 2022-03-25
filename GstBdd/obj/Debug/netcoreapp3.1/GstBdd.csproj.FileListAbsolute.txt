@@ -1,0 +1,84 @@
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.deps.json
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfo.cs
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Heroy\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.deps.json
+C:\Users\Heroy\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Heroy\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Heroy\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Heroy\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Heroy\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csprojAssemblyReference.cache
+C:\Users\Heroy\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfoInputs.cache
+C:\Users\Heroy\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfo.cs
+C:\Users\Heroy\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.CoreCompileInputs.cache
+C:\Users\Heroy\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.CopyComplete
+C:\Users\Heroy\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Heroy\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.deps.json
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfo.cs
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.deps.json
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csprojAssemblyReference.cache
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfoInputs.cache
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfo.cs
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.CoreCompileInputs.cache
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.CopyComplete
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfo.cs
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.deps.json
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Heroy\VraieProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.deps.json
+C:\Users\Heroy\VraieProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Heroy\VraieProjetC#\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Heroy\VraieProjetC#\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Heroy\VraieProjetC#\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Heroy\VraieProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csprojAssemblyReference.cache
+C:\Users\Heroy\VraieProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfoInputs.cache
+C:\Users\Heroy\VraieProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfo.cs
+C:\Users\Heroy\VraieProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.CoreCompileInputs.cache
+C:\Users\Heroy\VraieProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.CopyComplete
+C:\Users\Heroy\VraieProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Heroy\VraieProjetC#\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.deps.json
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csprojAssemblyReference.cache
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfoInputs.cache
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfo.cs
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.CoreCompileInputs.cache
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.CopyComplete
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.pdb

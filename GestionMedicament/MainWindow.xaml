@@ -1,0 +1,96 @@
+﻿<Window x:Class="GestionMedicament.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GestionMedicament"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="920"
+        
+        ResizeMode="NoResize"
+        Background="Transparent"
+        >
+
+
+    <Border Background="#272537"
+            CornerRadius="20">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+
+
+            <TextBlock 
+                Text="Projet GSB"
+             VerticalAlignment="Center"
+              HorizontalAlignment="Center"
+              Foreground="White"
+              FontSize="25"
+                       
+                       />
+
+
+            <RadioButton
+                    Grid.Column="1"
+                    Content="Gestion Médicament"
+                    HorizontalAlignment="Center"
+                    Padding="5"
+                    Margin="15"
+                    Height="50"
+                    Foreground="White"
+                    FontSize="18"
+                     Click="linkgstMedoc_Click" 
+                    />
+
+            <RadioButton
+                    Grid.Column="1"
+                    Content=" Gestions Individus"
+                    HorizontalAlignment="Left"
+                    Padding="5"
+                    Margin="15"
+                    Height="50"
+                    Foreground="White"
+                    FontSize="18"
+                Click="linkGstIdv_Click"
+                    
+               
+                
+                
+                    />
+            <RadioButton
+               Name="btnGraph"
+                    Grid.Column="1"
+                    Content="Graphiques"
+                    Padding="5"
+                    Margin="0,15,68,10"
+                    Height="50"
+                    Click="btnGraph_Click"
+                    HorizontalAlignment="Right"
+                    Foreground="White"
+                    FontSize="18"
+                    
+               />
+
+
+            <Image  Grid.Row="1" Grid.Column="1" Source="Images/Logo_GSB.png" HorizontalAlignment="Left" Margin="177,130,0,129" Width="260"/>
+
+            <!--<Button x:Name="linkGstIdv" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" Background="white" BorderBrush="white" Click="linkGstIdv_Click"
+                FontSize="16" HorizontalAlignment="Right" Margin="0,157,-69,19">Gestion Individus</Button>-->
+
+            <!--<Button Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" Name="linkgstMedoc" Click="linkgstMedoc_Click" 
+                HorizontalAlignment="Left" FontSize="16" Background="white" BorderBrush="white" Margin="178,36,-83,140">Gestion Medicament</Button>-->
+
+
+
+
+
+        </Grid>
+
+    </Border>
+</Window>

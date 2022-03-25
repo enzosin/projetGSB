@@ -1,0 +1,327 @@
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.g.cs
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.cache
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.lref
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.exe
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.deps.json
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.json
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.baml
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.g.resources
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfo.cs
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.genruntimeconfig.cache
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.g.cs
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.baml
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.g.cs
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.g.cs
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.baml
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.baml
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.g.cs
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.baml
+C:\Users\Dell\Desktop\GestionMedicament\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CopyComplete
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.exe
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.deps.json
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.json
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.dev.json
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csprojAssemblyReference.cache
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.g.cs
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.g.cs
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.g.cs
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.g.cs
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.g.cs
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.cache
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.lref
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.baml
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.baml
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.baml
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.baml
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.baml
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.g.resources
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfoInputs.cache
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfo.cs
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CoreCompileInputs.cache
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CopyComplete
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.genruntimeconfig.cache
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\PageGraphique.g.cs
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\Heroy\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\PageGraphique.baml
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.exe
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.deps.json
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.json
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\PageGraphique.g.cs
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.g.cs
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.g.cs
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.g.cs
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.g.cs
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.g.cs
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.cache
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.lref
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\PageGraphique.baml
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.baml
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.baml
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.baml
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.baml
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.baml
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.g.resources
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfo.cs
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CopyComplete
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\Dell\Desktop\projet C#\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.genruntimeconfig.cache
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csprojAssemblyReference.cache
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\PageGraphique.g.cs
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.g.cs
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.g.cs
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.g.cs
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.g.cs
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.g.cs
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.cache
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.lref
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.exe
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.deps.json
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.json
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.dev.json
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\PageGraphique.baml
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.baml
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.baml
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.baml
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.baml
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.baml
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.g.resources
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfoInputs.cache
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfo.cs
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CoreCompileInputs.cache
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CopyComplete
+C:\Users\Heroy\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.genruntimeconfig.cache
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\PageGraphique.g.cs
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.g.cs
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.g.cs
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.g.cs
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.g.cs
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.g.cs
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.cache
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.lref
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\PageGraphique.baml
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.baml
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.baml
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.baml
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.baml
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.baml
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.g.resources
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfo.cs
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.exe
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.deps.json
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.json
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\Dell\Desktop\YanisProjetC\YanisProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.genruntimeconfig.cache
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.exe
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.deps.json
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.json
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.dev.json
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csprojAssemblyReference.cache
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\PageGraphique.g.cs
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.g.cs
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.g.cs
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.g.cs
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.g.cs
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.g.cs
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.cache
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.lref
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\PageGraphique.baml
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.baml
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.baml
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.baml
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.baml
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.baml
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.g.resources
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfoInputs.cache
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfo.cs
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CoreCompileInputs.cache
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CopyComplete
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\Heroy\VraieProjetC#\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.genruntimeconfig.cache
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.exe
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.deps.json
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.json
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.runtimeconfig.dev.json
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csprojAssemblyReference.cache
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\PageGraphique.g.cs
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.g.cs
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.g.cs
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.g.cs
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.g.cs
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.g.cs
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.cache
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament_MarkupCompile.lref
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\PageGraphique.baml
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\VueEnzo\ModifMedicamentEnzo.baml
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\CreerPrescriptionGael.baml
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\VueGael\GstMedicamentGael.baml
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\GstIndividuYanis.baml
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\VueYanis\PerturbateurYanis.baml
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.g.resources
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfoInputs.cache
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.AssemblyInfo.cs
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CoreCompileInputs.cache
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.csproj.CopyComplete
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.dll
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.pdb
+C:\Users\SIN\OneDrive\Documents\SIO2\Buffeteau\situation2\situation2\GestionMedicament\obj\Debug\netcoreapp3.1\GestionMedicament.genruntimeconfig.cache

@@ -1,0 +1,112 @@
+﻿<Window x:Class="GestionMedicament.VueGael.CreerPrescriptionGael"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GestionMedicament.VueGael"
+        mc:Ignorable="d"
+        Title="CreerPrescriptionGael" Height="450" Width="800" Loaded="Window_Loaded"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        
+        >
+
+    <Border Background="#272537"
+            CornerRadius="20">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="200"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition Height="20"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Image Grid.Row="0" Grid.Column="0" Source="../Images/Logo_GSB.png" HorizontalAlignment="Left"></Image>
+
+
+
+            <RadioButton
+                   Grid.Column="3"
+                    Content="Gestion Individus"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Padding="10"
+                    Margin="0,15,0,0"
+                    Height="50"
+                    Foreground="White"
+                    FontSize="18"
+                   Click="linkGstIdv_Click" Grid.RowSpan="2"
+                    />
+            <RadioButton
+                    Grid.Column="1"
+                    Content="Gestion Médicaments"
+                    Padding="5"
+                    Margin="0,15,68,10"
+                    Height="50"
+                   Click="linkgstMedoc_Click"
+                    HorizontalAlignment="Right"
+                    Foreground="White"
+                    FontSize="18"
+                    
+               />
+            <RadioButton
+                    Name="Graphiques"
+                    Grid.Column="0"
+                    Content="Graphiques"
+                    Padding="5"
+                    Margin="133,13,0,13"
+                    Click="Graphiques_Click"
+                    HorizontalAlignment="Left"
+                    Foreground="White"
+                    FontSize="18" Width="145" Grid.ColumnSpan="2"
+                    
+               />
+
+            <!--<Button x:Name="linkGstIdv" Grid.Row="0" Grid.Column="1" Margin="0,0,20,0" VerticalAlignment="Center" Background="white" BorderBrush="white"
+				   FontSize="16" HorizontalAlignment="Right" Click="linkGstIdv_Click">Gestion Individus</Button>
+        <Button Grid.Row="0" Grid.Column="3" VerticalAlignment="Center" Name="linkgstMedoc" Click="linkgstMedoc_Click"
+                HorizontalAlignment="Left" FontSize="16" Background="white" BorderBrush="white">Gestion Medicaments</Button>-->
+
+            <TextBlock Foreground="White" Grid.Row="2" Grid.Column="1" TextAlignment="Center" FontSize="16">Création Prescription</TextBlock>
+
+            <WrapPanel Grid.Row="3" Grid.Column="1">
+                <TextBlock  Foreground="White" Text="Type Individu" Width="104"></TextBlock>
+                <ComboBox Name="cboIndividu" Width="238">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding LibelleType}" Width="200"></TextBlock>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+            </WrapPanel>
+            <WrapPanel Grid.Row="4" Grid.Column="1">
+                <TextBlock Foreground="White" Text="Dosage" Width="104"></TextBlock>
+                <ComboBox Name="cboDosage" Width="238">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock  Text="{Binding Quantite}" Width="100"></TextBlock>
+                                <TextBlock Text="{Binding Unite}" Width="100"></TextBlock>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+            </WrapPanel>
+            <TextBlock Foreground="White" Grid.Row="5" Grid.Column="1" VerticalAlignment="Center">Posologie<TextBox x:Name="txtPosologie" VerticalAlignment="Center" Width="240" Margin="53,0,0,0"></TextBox></TextBlock>
+            <Button x:Name="btnCreerPrescription" Click="btnCreerPrescription_Click" Grid.Column="1" Grid.Row="6" HorizontalAlignment="Center" VerticalAlignment="Center">Créer prescription</Button>
+        </Grid>
+
+    </Border>
+</Window>
