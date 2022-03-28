@@ -85,7 +85,7 @@ namespace GestionMedicament.VueYanis {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GestionMedicament;component/vueyanis/gstindividuyanis.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GestionMedicament;V1.0.0.0;component/vueyanis/gstindividuyanis.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\VueYanis\GstIndividuYanis.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

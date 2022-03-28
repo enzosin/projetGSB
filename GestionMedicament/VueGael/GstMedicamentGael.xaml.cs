@@ -51,8 +51,9 @@ namespace GestionMedicament.VueGael
                 int idMedoc = (lstTotalMedoc.SelectedItem as Medicament).IdMedicament;
                 ModifMedicamentEnzo modifMedoc = new ModifMedicamentEnzo(Gst, idMedoc);
                 modifMedoc.Show();
+                this.Close();
             }
-            this.Close();
+            
         }
         
         // Vérifier si un médicament est sélectionné

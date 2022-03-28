@@ -93,7 +93,7 @@ namespace GestionMedicament.VueYanis {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GestionMedicament;component/vueyanis/perturbateuryanis.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GestionMedicament;V1.0.0.0;component/vueyanis/perturbateuryanis.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\VueYanis\PerturbateurYanis.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

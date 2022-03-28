@@ -93,7 +93,7 @@ namespace GestionMedicament.VueGael {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GestionMedicament;component/vuegael/creerprescriptiongael.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GestionMedicament;V1.0.0.0;component/vuegael/creerprescriptiongael.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\VueGael\CreerPrescriptionGael.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -149,7 +149,7 @@ namespace GestionMedicament.VueGael {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GestionMedicament;component/vuegael/gstmedicamentgael.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GestionMedicament;V1.0.0.0;component/vuegael/gstmedicamentgael.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\VueGael\GstMedicamentGael.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -125,7 +125,7 @@ namespace GestionMedicament.VueEnzo {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GestionMedicament;component/vueenzo/modifmedicamentenzo.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GestionMedicament;V1.0.0.0;component/vueenzo/modifmedicamentenzo.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\VueEnzo\ModifMedicamentEnzo.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
